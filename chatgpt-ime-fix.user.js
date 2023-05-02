@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         chagpt-ime-fix
+// @name         chatgpt-ime-fix
 // @namespace    otsuya.co
 // @version      1.0.0
 // @description  Prevent message sending while using IME. This aims to improve the user experience when using ChatGPT with Mac Safari and Japanese IME.
